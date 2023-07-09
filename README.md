@@ -1,4 +1,8 @@
-## Bem-vindo(a) ao meu perfil de Ilx-Jxao 😁
+## Bem-vindo(a) ao perfil de ilx-jxao😁
+## Welcome to ilx-jxao's profile😁
+
+Hello, I'm João Paulo, a 15-year-old aspiring front-end developer. I started studying front-end development in July 2023 and I'm excited to share my progress in this space.
+
 
  <div>
    <a href="https://github.com/ilx-jxao">
